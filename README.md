@@ -1,1 +1,1 @@
-# banner-container
+# amazon-clone
